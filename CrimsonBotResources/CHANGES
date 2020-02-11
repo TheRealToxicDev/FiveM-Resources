@@ -1,1 +1,4 @@
-
+ 
+- Converted it to a full FiveM resource, no need to install NodeJS anymore
+- Removed Multi-Server support, might add it with any future update
+- Added a bunch of new commands for resource managing (Start, Stop, Restart resources, Requesting a list of all available resources and Refreshing the available resources)
