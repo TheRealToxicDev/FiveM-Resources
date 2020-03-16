@@ -1,1 +1,4 @@
-
+- Changed the 'ToDiscord' event to a function
+- Updated Server.lua
+- Updated Client.lua
+- Add Auto-Updater
